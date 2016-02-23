@@ -10,3 +10,4 @@ data= cur.fetchall()
 
 for x in data :
     print(x)
+
